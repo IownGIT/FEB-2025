@@ -3,6 +3,3 @@ Hey.. This is GIT test
 say hi
 
 Adding one more line to test
-
-testing
-
