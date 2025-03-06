@@ -1,0 +1,1 @@
+It configures Git to store your credentials (username and password or personal access token) permanently in a plain-text file (~/.git-credentials on Linux/Mac or %USERPROFILE%\.git-credentials on Windows). This means you won’t need to enter your credentials every time you interact with a remote repository.
